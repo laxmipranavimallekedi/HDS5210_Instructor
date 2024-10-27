@@ -1,0 +1,2 @@
+Incomplete mapping of DYSPNEA codes will result in some codes getting a score of 0.
+This will throw off your final data - which is not present.
